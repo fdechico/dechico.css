@@ -1,0 +1,31 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f0f0; /* Cor de fundo */
+    color: #333; /* Cor da fonte */
+}
+
+#titulo {
+    font-size: 2.5em;
+    color: #2c3e50; /* Cor do título */
+}
+
+.cargo {
+    font-weight: bold;
+    font-style: italic; /* Estilo da fonte */
+}
+
+.link-contato {
+    color: #3498db; /* Cor padrão de links */
+}
+
+.link-contato:hover {
+    color: #e74c3c; /* Cor do link ao passar o mouse */
+}
+
+h2 {
+    border-bottom: 2px solid #2c3e50; /* Decoração de texto */
+}
+
+ul, ol {
+    padding-left: 20px;
+}
