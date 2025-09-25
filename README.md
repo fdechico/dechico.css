@@ -1,5 +1,3 @@
-# dechico.css
-
 # Nome do Projeto: Serviço de Ensino Remoto Gratuito
 
 ## Integrantes da Equipe
